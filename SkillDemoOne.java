@@ -1,1 +1,5 @@
-class SkillDemoOne {} //going to edit on vscode
+class SkillDemoOne {
+    public static int mult(int m, int n) {
+        return m*n;
+    }
+}
